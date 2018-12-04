@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.inc.jhdemo.config.ApplicationProperties",
+      "name": "application",
+      "type": "com.inc.jhdemo.config.ApplicationProperties"
+    },
+    {
+      "sourceType": "com.inc.jhdemo.config.CloudDatabaseConfiguration",
+      "name": "spring.datasource.hikari",
+      "sourceMethod": "dataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
